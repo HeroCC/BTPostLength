@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BitcoinTalk Post Length Counter
-// @namespace    https://herocc.com/btPostLengthCounter
+// @namespace    https://github.com/HeroCC/BTPostLength
 // @version      0.1
 // @description  Count the length of BitcoinTalk posts
 // @author       HeroCC
